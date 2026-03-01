@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "みんな集まれ！キョウリュウジャー",
+  "base_artist": "高取ヒデアキ",
+  "createdAt": "2026-03-01T03:48:17.597977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "みんな集まれ!キョウリュウジャー(2114年ver.)",
+      "artist": "高取ヒデアキ",
+      "has_synced": false,
+      "path": "select/01_みんな集まれ!キョウリュウジャー(2114年ver.)_高取ヒデアキ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "みんな集まれ!キョウリュウジャー",
+      "artist": "高取ヒデアキ",
+      "has_synced": true,
+      "path": "select/02_みんな集まれ!キョウリュウジャー_高取ヒデアキ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "みんな集まれ!キョウリュウジャー",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/03_みんな集まれ!キョウリュウジャー_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "みんな集まれ! キョウリュウジャー",
+      "artist": "高取ヒデアキ",
+      "has_synced": true,
+      "path": "select/04_みんな集まれ!_キョウリュウジャー_高取ヒデアキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みんな集まれ!キョウリュウジャー",
+      "artist": "高取ヒデアキ",
+      "has_synced": false,
+      "path": "select/pl_01_みんな集まれ!キョウリュウジャー_高取ヒデアキ.txt"
+    }
+  ]
+}
